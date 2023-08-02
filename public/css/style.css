@@ -1,0 +1,15 @@
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    margin-right:100px;
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    
+    color: hotpink;
+}
+
+/* Custom modal dialog style */
+.custom-confirm-modal {
+    max-width: 500px; /* Adjust the width as needed */
+    margin: 0 auto;
+  }
+  
